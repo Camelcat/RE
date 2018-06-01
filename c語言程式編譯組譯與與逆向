@@ -86,7 +86,7 @@ main:
   gcc  XXX.o –o XXX
   
   gcc  XXX.o –o XXX.exe
-  
-  ![圖片](pic/b.png)
 
   gcc  XXX.o –o XXX.jpg
+  
+    ![圖片](pic/b.png)
