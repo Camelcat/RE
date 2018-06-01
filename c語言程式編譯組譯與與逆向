@@ -17,7 +17,7 @@ gcc –E XXX.c –o XXX.i(XXX=hello)
 
 
 
-![組合語言](pic/a.png)
+![圖片](pic/a)
 
 
 
