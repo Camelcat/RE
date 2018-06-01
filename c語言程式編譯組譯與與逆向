@@ -14,7 +14,7 @@ int main()
 
 gcc –E XXX.c –o XXX.i(XXX=hello)
 
-![gedit]([pic/a.png)
+![gedit](pic/a.png)
 
 編譯階段:產生組語
 
