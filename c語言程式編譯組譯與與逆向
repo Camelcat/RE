@@ -1,14 +1,13 @@
 c語言程式編譯組譯
-
+'''
 c語言程式:hello.c
-...
 #include <stdio.h>
 int main()
 {
    printf("Hello CTFer\n ”);
    return 0;
 }
-...
+'''
 
 
 預處理階段
